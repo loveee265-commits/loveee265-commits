@@ -98,4 +98,6 @@ I am always open to connecting with DevOps engineers, cloud professionals, and t
 </div>
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/lakshayvermaa/lakshayvermaa/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/loveee265-commits/loveee265-commits/raw/output/github-contribution-grid-snake.svg)
