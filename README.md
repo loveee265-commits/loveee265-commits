@@ -96,3 +96,6 @@ I am always open to connecting with DevOps engineers, cloud professionals, and t
 <div align="center">
   <i>Let’s drive success through innovation and efficient DevOps practices!</i>
 </div>
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/lakshayvermaa/lakshayvermaa/blob/output/github-contribution-grid-snake.svg)
